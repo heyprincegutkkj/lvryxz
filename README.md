@@ -4,7 +4,9 @@
 - 💞️ I’m looking to collaborate on none
 - 📫 How to reach me : you cant
 - 😄 Pronouns: troll/troll
-- ⚡ Fun fact: none
+- ⚡ Fun fact: im a bot maker in discord
+                  
+
 
 <!---
 lvryxz/lvryxz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
